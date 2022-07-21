@@ -1,6 +1,6 @@
 # api_app
 
-Flutter API Exercise
+Flutter API Exercise; Get, Post, Delete, Patch, Put with HTTP
 
 ## Getting Started
 
